@@ -1,0 +1,13 @@
+.env
+.encryption_key
+bot.sqlite3
+bot.sqlite3-shm
+bot.sqlite3-wal
+*.session
+*.session-journal
+.venv/
+__pycache__/
+downloads/
+data/
+*.part
+*.zip

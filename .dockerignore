@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+data/
+runtime-data/
+*.zip
+__pycache__/
+*.py[cod]
+*.session
+*.session-journal
+*.sqlite3*
+.encryption_key
+downloads/
+.venv/
+.git/
